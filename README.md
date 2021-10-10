@@ -7,9 +7,9 @@
 * https://www.linkedin.com/in/assyamsi-nh-615725181/
 * https://www.linkedin.com/in/topahadzi/
               
-* Telgram   : - @assyamsi_nh
-              
-              - @topahadzi.
+* Telgram   : 
+* @assyamsi_nh
+* @topahadzi.
 
 <!---
 akimbo-devops/akimbo-devops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
