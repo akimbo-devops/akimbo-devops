@@ -4,11 +4,9 @@
 - 💞️ We're looking to collaborate on Learn DevOps together.
 - 📫 How to reach Us: 
 * Linkedin  : - https://www.linkedin.com/in/assyamsi-nh-615725181/
-             
               - https://www.linkedin.com/in/topahadzi/
               
 * Telgram   : - @assyamsi_nh
-            
               - @topahadzi.
 
 <!---
